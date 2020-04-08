@@ -6,3 +6,5 @@ This is for a P&M Spring 2020 project.
 The server is hosted on digital ocean.
 
 The server auto pulls from this github.
+
+Testing Github
